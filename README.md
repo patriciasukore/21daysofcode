@@ -3,4 +3,4 @@
 patriciasukore
 /
 21daysofcode
-https://codepen.io/patriciasukore/pen/OJGoxPJ
+https://codepen.io/patriciasukore/details/OJGoxPJ
