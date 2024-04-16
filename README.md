@@ -3,4 +3,4 @@
 patriciasukore
 /
 21daysofcode
-http://127.0.0.1:5500/day1.html
+https://codepen.io/patriciasukore/pen/OJGoxPJ
